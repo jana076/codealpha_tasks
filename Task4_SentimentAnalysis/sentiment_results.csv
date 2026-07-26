@@ -1,0 +1,9 @@
+﻿review,compound,sentiment
+This product is absolutely amazing! Best purchase ever.,0.8709,Positive
+"Terrible quality, broke after one day. Very disappointed.",-0.8516,Negative
+"It's okay, does the job but nothing special.",-0.3479,Negative
+I love it!!! Highly recommend to everyone :),0.8972,Positive
+"Not good at all, waste of money.",-0.6377,Negative
+The delivery was on time and the packaging was fine.,0.2023,Positive
+"Worst experience, customer service was rude and unhelpful.",-0.7964,Negative
+"Great value for the price, works perfectly.",0.8934,Positive
